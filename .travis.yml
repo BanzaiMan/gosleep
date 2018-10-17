@@ -2,7 +2,7 @@ language: go
 
 go:
   - 1.11.x
-
+filter_secrets: redirect_io
 os:
   - linux
   - osx
